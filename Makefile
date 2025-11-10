@@ -1,3 +1,3 @@
 say-Hello:
-  Hello, World!
+  @echo Hello, World!
   
