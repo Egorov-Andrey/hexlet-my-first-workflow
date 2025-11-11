@@ -1,3 +1,3 @@
-say-hello:$
-^I@echo "Hello, World!"$
+say-hello:
+  @echo "Hello, World!"
   
